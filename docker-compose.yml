@@ -3,7 +3,7 @@ version: '3.4'
 services:
 
   api:
-    container_name: msTourism
+    container_name: msTourism2
     build: ./api
     volumes:
       - ./api/msTourism2:/var/msTourism2
