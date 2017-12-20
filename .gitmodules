@@ -1,0 +1,3 @@
+[submodule "api/msTourism2"]
+	path = api/msTourism2
+	url = git@github.com:D-Dawg/msTourism2.git
