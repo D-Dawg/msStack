@@ -11,6 +11,6 @@ RUN npm install
 ENV PATH /var/node_modules/.bin:$PATH
 
 COPY ./msTourism2 /usr/src/msTourism2
-EXPOSE 3000
+EXPOSE 80
 CMD npm start
 
